@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://cenazoju.github.io/sitemap/sitemap_index.cenazoju
+Sitemap: https://cenazoju.github.io/dek/sitemap_index.cenazoju
+Sitemap: https://cenazoju.github.io/mJM/sitemap_index.cenazoju
+Sitemap: https://cenazoju.github.io/CoB/sitemap_index.cenazoju
+Sitemap: https://cenazoju.github.io/PuO/sitemap_index.cenazoju
+Sitemap: https://cenazoju.github.io/JLF/sitemap_index.cenazoju
